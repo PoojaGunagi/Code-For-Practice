@@ -4,3 +4,7 @@ let's start programming series
 Hello world
 prime number
 swap
+
+array
+String
+Exception
