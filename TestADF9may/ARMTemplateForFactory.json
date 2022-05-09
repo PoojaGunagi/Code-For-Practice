@@ -179,11 +179,11 @@
 											"type": "DatasetReference",
 											"parameters": {
 												"Tablename": {
-													"value": "@activity('getfiledetails').output.firstRow.StageSchemaname",
+													"value": "@activity('getfiledetails').output.firstRow.StageTablename",
 													"type": "Expression"
 												},
 												"Schemaname": {
-													"value": "@activity('getfiledetails').output.firstRow.stageTableName  ",
+													"value": "@activity('getfiledetails').output.firstRow.stageSchemaName  ",
 													"type": "Expression"
 												}
 											}
