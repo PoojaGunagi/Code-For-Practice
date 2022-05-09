@@ -80,7 +80,7 @@
 									"partitionOption": "None"
 								},
 								"dataset": {
-									"referenceName": "DS_SQL",
+									"referenceName": "AzureSqlTable1",
 									"type": "DatasetReference"
 								}
 							}
